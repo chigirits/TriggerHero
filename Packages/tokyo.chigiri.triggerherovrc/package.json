@@ -1,0 +1,17 @@
+{
+  "name": "tokyo.chigiri.triggerherovrc",
+  "displayName": "TriggerHero.VRC",
+  "version": "0.1.1",
+  "unity": "2022.3",
+  "description": "A trigger system by hero-like gestures for VRChat Avatars",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "Chigiri Tsutsumi",
+    "email": "chigirits@gmail.com",
+    "url": "https://chigiri.tokyo"
+  },
+  "license": "MIT",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.1"
+  }
+}
